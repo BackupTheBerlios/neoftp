@@ -98,6 +98,7 @@
                     Platform = "Pocket PC"
                     Name = "p7_ProgBar"
                     AssemblyName = "p7_ProgBar"
+                    HintPath = "lib\p7_ProgBar.dll"
                 />
                 <Reference
                     Platform = "Pocket PC-Designer"
@@ -150,7 +151,6 @@
             <Include>
                 <File
                     RelPath = "AppWrp.vb"
-                    Link = "..\..\neoScan\PocketScanner\AppWrp.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
                 />
@@ -216,13 +216,12 @@
                 />
                 <File
                     RelPath = "IPHelper.vb"
-                    Link = "..\..\neoScan\PocketScanner\IPHelper.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
                 />
                 <File
                     RelPath = "KryptoMod.vb"
-                    Link = "..\..\..\VB\Krypto\VB.NET\KryptoMod.vb"
+                    Link = "..\..\VB\Krypto\VB.NET\KryptoMod.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
                 />
