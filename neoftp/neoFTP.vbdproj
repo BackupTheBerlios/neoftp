@@ -221,7 +221,6 @@
                 />
                 <File
                     RelPath = "KryptoMod.vb"
-                    Link = "..\..\VB\Krypto\VB.NET\KryptoMod.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
                 />
@@ -231,7 +230,6 @@
                 />
                 <File
                     RelPath = "theApp.vb"
-                    Link = "..\..\Sieben.NET\SevenTiny.NET\SiebenCompact\theApp.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
                 />
