@@ -1,0 +1,37 @@
+User License Agreement for neoFTP by Milosz Weckowski / playseven.com / dotnetux.net
+
+This user license agreement (the AGREEMENT) is an agreement between you (individual or single entity) and Milosz Weckowski, for the neoTools/neoFTP that is accompanying this AGREEMENT.
+
+The SOFTWARE is the property of Milosz Weckowski and is protected by copyright laws and international copyright treaties. The SOFTWARE is not sold, it is licensed.
+
+FREE VERSION
+
+The FREE VERSION means an original fully working version of the SOFTWARE. If you accept the terms and conditions of this AGREEMENT, you have certain rights and obligations as follow:
+
+YOU MAY:
+
+1.	Install and use one copy of the SOFTWARE on a single computer.
+2.	Install a second copy of the SOFTWARE on a second computer only if you are the main user of this computer (home computer or laptop for example).
+3.	Install the SOFTWARE on another computer only if you change main workstation. In such a case you must uninstall the software from the old computer.
+4.	Make a copy of the SOFTWARE for archival purposes only.
+
+YOU MAY NOT:
+
+1.	Copy and distribute the SOFTWARE or any portion of it.
+2.	Sublicense, rent, lease or transfer your personal registering number.
+3.	Sublicense, rent or lease the SOFTWARE or any portion of it.
+4.	Decompile, disassemble, reverse engineer or modify the SOFTWARE or any portion of it.
+5.	Copy the documentation accompanying the SOFTWARE.
+
+
+DISTRIBUTION:
+
+You are hereby licensed to make as many copies of the FREE VERSION or UNREGISTERED SHAREWARE VERSION as you wish and distribute it to anyone provided that all files are intact. You must distribute the install form of the FREE VERSION or UNREGISTERED SHAREWARE VERSION (you must distribute the setup file, not the files resulting of an installation). You are not allowed to sell the TRIAL VERSION or the UNREGISTERED SHAREWARE VERSION (except payments for shipment and handling charges). Computer magazines are authorized to distribute it on any cover disk or CD-ROM without preliminary permission. Please inform us by email info@playseven.com each time you distribute the FREE VERSION or UNREGISTERED SHAREWARE VERSION.
+
+WARRANTY DISCLAIMER
+
+The SOFTWARE is supplied "AS IS". Milosz Weckowski disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk on using the SOFTWARE.
+
+DISCLAIMER OF DAMAGES
+
+playseven.com assumes no liability for damages, direct or consequential, which may result from the use of the SOFTWARE, even if Milosz Weckowski has been advised of the possibility of such damages. Any liability of the seller will be limited to refunding of the purchase price.

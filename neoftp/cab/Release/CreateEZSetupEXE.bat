@@ -1,0 +1,1 @@
+ezsetup.exe -l english -i install.ini -r readme.txt -e eula.txt -o NeoFTP_FullSetup.exe

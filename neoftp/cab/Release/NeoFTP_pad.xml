@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to dissemminate information to anyone interested in their software products.  To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+		<MASTER_PAD_EDITOR>DeuPAD 2.0.0.45 (http://www.deupad.org)</MASTER_PAD_EDITOR>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>playseven.com</Company_Name>
+		<Address_1>Jägerstr. 28</Address_1>
+		<Address_2 />
+		<Zip_Postal_Code>97082</Zip_Postal_Code>
+		<City_Town>Würzburg</City_Town>
+		<Country>Deutschland</Country>
+		<State_Province />
+		<Company_WebSite_URL>http://www.dotnetux.net</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Milosz</Author_First_Name>
+			<Author_Last_Name>Weckowski</Author_Last_Name>
+			<Author_Email>mw@playseven.com</Author_Email>
+			<Contact_First_Name>Milosz</Contact_First_Name>
+			<Contact_Last_Name>Weckowski</Contact_Last_Name>
+			<Contact_Email>MiloszWeckowski@gmx.de</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<General_Email>info@playseven.com</General_Email>
+			<Support_Email>faq@playseven.com</Support_Email>
+			<Sales_Email>mw@playseven.com</Sales_Email>
+			<General_Phone>+49 (0) 179 701 91 44</General_Phone>
+			<Support_Phone />
+			<Sales_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>neoFTP</Program_Name>
+		<Program_Version>0.9</Program_Version>
+		<Program_Release_Year>2004</Program_Release_Year>
+		<Program_Release_Month>09</Program_Release_Month>
+		<Program_Release_Day>10</Program_Release_Day>
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Beta</Program_Release_Status>
+		<Program_Cost_Other>0.00</Program_Cost_Other>
+		<Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+		<Program_Categories>Internet</Program_Categories>
+		<Program_Specific_Category>Internet</Program_Specific_Category>
+		<Program_Change_Info>Adressbook
+Resume Downloads functionality</Program_Change_Info>
+		<Program_Language>English</Program_Language>
+		<Program_OS_Support>Windows CE</Program_OS_Support>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_System_Requirements>PocketPC, .Net Compact Framework</Program_System_Requirements>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Long>NeoFTP_FullSetup.exe</Filename_Long>
+			<Filename_Generic>NeoFTP.exe</Filename_Generic>
+			<Filename_Versioned>NeoFTP09.exe</Filename_Versioned>
+			<Filename_Previous>NeoFTP09.exe</Filename_Previous>
+			<File_Size_Bytes>282624</File_Size_Bytes>
+			<File_Size_K>276</File_Size_K>
+			<File_Size_MB>0.27</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Based_On />
+			<Expire_Count>0</Expire_Count>
+			<Expire_Year />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Other_Info />
+		</Expire_Info>
+		<Program_Cost_Other_Code />
+		<Program_Category_Class>Network &amp; Internet::FTP Clients</Program_Category_Class>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>pocketpc,compact framework,ftp,internet,file transfer protocol,windowsce,.net cf,file transfer</Keywords>
+			<Char_Desc_45>FTP client from the neoTools Series</Char_Desc_45>
+			<Char_Desc_80>FTP client with Adressbook and 
+Resume Downloads functionality</Char_Desc_80>
+			<Char_Desc_250>This is the FTP client from the neoTools Series. This client can be invoked form neoScan to establish a FTP connection to the scanned port. An 
+- Adressbook
+- Resume Downloads functionality
+belongs of cause to the supported features list.</Char_Desc_250>
+			<Char_Desc_450 />
+			<Char_Desc_2000 />
+		</English>
+		<German>
+			<Keywords />
+			<Char_Desc_45 />
+			<Char_Desc_80 />
+			<Char_Desc_250 />
+			<Char_Desc_450 />
+			<Char_Desc_2000 />
+		</German>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.dotnetux.net</Application_Info_URL>
+			<Application_Order_URL>http://www.dotnetux.net</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.dotnetux.net/mediac/400_0/media/DIR_2602/neoFTPScr2.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL />
+			<Application_XML_File_URL>http://www.playseven.com/downloads/NeoFTP_pad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.playseven.com/downloads/NeoFTP_FullSetup.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA>User License Agreement for neoFTP by Milosz Weckowski / playseven.com / dotnetux.net
+
+This user license agreement (the AGREEMENT) is an agreement between you (individual or single entity) and Milosz Weckowski, for the neoTools/neoFTP that is accompanying this AGREEMENT.
+
+The SOFTWARE is the property of Milosz Weckowski and is protected by copyright laws and international copyright treaties. The SOFTWARE is not sold, it is licensed.
+
+FREE VERSION
+
+The FREE VERSION means an original fully working version of the SOFTWARE. If you accept the terms and conditions of this AGREEMENT, you have certain rights and obligations as follow:
+
+YOU MAY:
+
+1.	Install and use one copy of the SOFTWARE on a single computer.
+2.	Install a second copy of the SOFTWARE on a second computer only if you are the main user of this computer (home computer or laptop for example).
+3.	Install the SOFTWARE on another computer only if you change main workstation. In such a case you must uninstall the software from the old computer.
+4.	Make a copy of the SOFTWARE for archival purposes only.
+
+YOU MAY NOT:
+
+1.	Copy and distribute the SOFTWARE or any portion of it.
+2.	Sublicense, rent, lease or transfer your personal registering number.
+3.	Sublicense, rent or lease the SOFTWARE or any portion of it.
+4.	Decompile, disassemble, reverse engineer or modify the SOFTWARE or any portion of it.
+5.	Copy the documentation accompanying the SOFTWARE.
+
+
+DISTRIBUTION:
+
+You are hereby licensed to make as many copies of the FREE VERSION or UNREGISTERED SHAREWARE VERSION as you wish and distribute it to anyone provided that all files are intact. You must distribute the install form of the FREE VERSION or UNREGISTERED SHAREWARE VERSION (you must distribute the setup file, not the files resulting of an installation). You are not allowed to sell the TRIAL VERSION or the UNREGISTERED SHAREWARE VERSION (except payments for shipment and handling charges). Computer magazines are authorized to distribute it on any cover disk or CD-ROM without preliminary permission. Please inform us by email info@playseven.com each time you distribute the FREE VERSION or UNREGISTERED SHAREWARE VERSION.
+
+WARRANTY DISCLAIMER
+
+The SOFTWARE is supplied &quot;AS IS&quot;. Milosz Weckowski disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk on using the SOFTWARE.
+
+DISCLAIMER OF DAMAGES
+
+playseven.com assumes no liability for damages, direct or consequential, which may result from the use of the SOFTWARE, even if Milosz Weckowski has been advised of the possibility of such damages. Any liability of the seller will be limited to refunding of the purchase price.</EULA>
+	</Permissions>
+	<DeuPAD>
+		<DeuPAD_Extension_Version>2.00</DeuPAD_Extension_Version>
+		<DeuPAD_Extension_Info>For information on the DeuPAD Extensions please go to http://www.deupad.org</DeuPAD_Extension_Info>
+		<SAVE_Member>Y</SAVE_Member>
+		<SAVE_Member_Number>mwp</SAVE_Member_Number>
+		<Company_Unique_ID>{3A51B2C4-ABEA-44FC-AAB6-77C8F6DF8985}</Company_Unique_ID>
+		<Save_Prog_Num />
+		<Program_Cost_EUR>0.00</Program_Cost_EUR>
+		<Program_Cost_DEM />
+		<Program_Unique_ID>{BEBD7D8E-8C50-44A5-BDD5-994869A20646}</Program_Unique_ID>
+		<Program_Categories_German>Internet</Program_Categories_German>
+		<Program_System_Requirements_German>PocketPC, .Net Compact Framework</Program_System_Requirements_German>
+		<Expire_Other_Info_German />
+		<EULA_German />
+		<Program_Change_Info_German>Adressbuch
+Wiederaufnahme von abgebrochenen Downloads</Program_Change_Info_German>
+	</DeuPAD>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+	<MSN>
+		<MSN_FORM>Y</MSN_FORM>
+		<MSN_IS_32bit>Y</MSN_IS_32bit>
+	</MSN>
+	<ZDNET>
+		<ZDNET_FORM>Y</ZDNET_FORM>
+		<ZDNET_Product_ID_Code />
+	</ZDNET>
+</XML_DIZ_INFO>
